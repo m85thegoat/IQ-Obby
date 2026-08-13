@@ -1,4 +1,3 @@
--- Protected by Mnx Obfuscator | Public Enemy
 local sefU6o6UY=bit32.bxor(192,44)
 local lgk5fjDhY=math.abs(-92)
 local ypJtFlCNxSt=729
